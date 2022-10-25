@@ -1,1 +1,1 @@
-# apz_test_lab_1
+# Repository for storing completed tasks for the APZ discipline
